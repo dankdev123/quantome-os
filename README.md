@@ -1,5 +1,5 @@
 # Quantome Kernel 
 a c project 
 <pre>
-Hi
+Creators : dankdev123 & therealgolem
 </pre>
