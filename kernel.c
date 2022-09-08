@@ -6,7 +6,7 @@ unsigned int k_printf(char *message, unsigned int line);
 void k_main() 
 {
 	k_clear_screen();
-	k_printf("Hello, world! Welcome to my kernel.", 0);
+	k_printf("Welcome to the Quantome Kernel", 0);
 };
 
 
