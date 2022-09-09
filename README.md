@@ -9,5 +9,6 @@ Updates will be shown!!
 
 <pre>
 Snapshot
-![image](https://user-images.githubusercontent.com/98686183/189289662-6d9eb66b-8ef7-40bf-b488-004062d45cfc.png)
 </pre>
+
+![image](https://user-images.githubusercontent.com/98686183/189289762-94bf44a6-d66d-4db3-8f5e-db322fea9cf6.png)
