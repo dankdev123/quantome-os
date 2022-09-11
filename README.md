@@ -1,6 +1,5 @@
 # Quantome OS 
 
-# What it is
 
 A OS project made by 2 Devs, OS coming soon! 
 <pre>
